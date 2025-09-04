@@ -1,0 +1,133 @@
+html {
+  scroll-behavior: smooth;
+}
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+    background: linear-gradient(to bottom, #fce4ec, #f8d7da);
+    margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #b71c1c;
+  margin-top: 50px;
+}
+
+p {
+  font-size: 18px;
+  color: #333;
+}
+button {
+  background-color: #b71c1c;
+  color: white;
+  border: none;
+  padding: 12px 24px;
+  font-size: 16px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
+}
+
+button:hover {
+  background-color: #8a1212;
+}
+h2 {
+  color: #b71c1c;
+  margin-top: 40px;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+li {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin: 8px auto;
+  padding: 12px;
+  max-width: 300px;
+  border-radius: 10px;
+  font-size: 16px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+  transition: transform 0.2s ease;
+}
+
+li:hover {
+  transform: scale(1.05);
+}
+ {
+  background-color: #fff;
+  border: 1px solid #ddd;
+  margin: 8px auto;
+  padding: 10px;
+  max-width: 300px;
+  border-radius: 6px;
+  font-size: 16px;
+}
+
+li span {
+  color: #b71c1c;
+  font-weight: bold;
+}
+section {
+  margin-top: 40px;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+section h2 {
+  color: #b71c1c;
+}
+nav {
+  margin-top: 10px;
+}
+
+nav a {
+  color: white;
+  margin: 0 10px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+.highlight {
+  background-color: #ffe082 !important;
+  transition: background-color 1s ease;
+}
+#search {
+  display: block;
+  margin: 20px auto;
+  padding: 10px;
+  width: 250px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+#donorCount {
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+#filter {
+  display: block;
+  margin: 10px auto 20px auto;
+  padding: 10px;
+  width: 200px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+}
+
+
