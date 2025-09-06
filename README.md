@@ -19,3 +19,8 @@ It allows users to **search**, **filter**, **add**, and **delete** donors easily
 
 ## 👩‍💻 Author
 Created by **Fathima** 💖
+
+## 📸 Screenshot
+
+![BloodConnect Screenshot](screenshot.png)
+
