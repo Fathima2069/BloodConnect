@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BloodConnect</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- Font Awesome for Trash Can Icon -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+</head>
+<body>
+  <!-- Header -->
+  <header>
+    <h1>🩸 BloodConnect</h1>
+    <nav>
+      <a href="#donors">Donors</a>
+      <a href="#register">Register</a>
+      <a href="#about">About</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <!-- Main Container -->
+  <div class="container">
+    <h2>Welcome to BloodConnect</h2>
+    <p>This is the beginning of your project.</p>
+    <button>Join as a Donor</button>
+
+    <!-- Search + Filter -->
+    <input type="text" id="search" placeholder="Search donors...">
+    <select id="filter">
+      <option value="all">All Blood Groups</option>
+      <option value="A+">A+</option>
+      <option value="A-">A-</option>
+      <option value="B+">B+</option>
+      <option value="B-">B-</option>
+      <option value="O+">O+</option>
+      <option value="O-">O-</option>
+      <option value="AB+">AB+</option>
+      <option value="AB-">AB-</option>
+    </select>
+
+    <!-- Donor List -->
+    <h2 id="donors">Available Donors</h2>
+    <ul>
+      <li>Ali - <span>O+</span> <button class="delete-btn"><i class="fa-solid fa-trash"></i></button></li>
+      <li>Fatima - <span>A+</span> <button class="delete-btn"><i class="fa-solid fa-trash"></i></button></li>
+      <li>Rahul - <span>B-</span> <button class="delete-btn"><i class="fa-solid fa-trash"></i></button></li>
+    </ul>
+    <p id="donorCount"><strong>Total Donors:</strong> 3</p>
+
+    <!-- Register Donor Form -->
+    <h2 id="register">Register as a Donor</h2>
+    <form>
+      <input type="text" placeholder="Your Name" required>
+      <input type="text" placeholder="Blood Group" required>
+      <button type="submit">Register</button>
+    </form>
+    <p id="thankyou" style="display:none; color: green;">Thank you for registering!</p>
+
+    <!-- About Section -->
+    <section id="about">
+      <h2>About BloodConnect</h2>
+      <p>BloodConnect is a platform to connect blood donors with those in need. 
+         Our mission is to save lives by making blood donation simple and accessible.</p>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+      <h2>Contact Us</h2>
+      <p>Email: <a href="mailto:bloodconnect@example.com">bloodconnect@example.com</a></p>
+      <p>Phone: +91 98765 43210</p>
+    </section>
+  </div>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 BloodConnect. All rights reserved.</p>
+  </footer>
+
+  <!-- Script -->
+  <script src="script.js"></script>
+</body>
+</html>
