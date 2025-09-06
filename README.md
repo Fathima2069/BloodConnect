@@ -1,5 +1,10 @@
 # 🩸 BloodConnect
 
+![Made with HTML](https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=html5)
+![Made with CSS](https://img.shields.io/badge/Made%20with-CSS-blue?style=for-the-badge&logo=css3)
+![Made with JavaScript](https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript)
+![Status](https://img.shields.io/badge/Status-Live-brightgreen?style=for-the-badge)
+
 BloodConnect is a simple web app to connect blood donors with people in need.  
 It allows users to **search**, **filter**, **add**, and **delete** donors easily.
 
