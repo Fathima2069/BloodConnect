@@ -3,6 +3,8 @@
 BloodConnect is a simple web app to connect blood donors with people in need.  
 It allows users to **search**, **filter**, **add**, and **delete** donors easily.
 
+---
+
 ## 🚀 Features
 - ✅ Add new donors with name and blood group  
 - ✅ Delete donors with a 🗑️ button  
@@ -11,16 +13,21 @@ It allows users to **search**, **filter**, **add**, and **delete** donors easily
 - ✅ Donor count updates automatically  
 - ✅ Works online with GitHub Pages  
 
+---
+
 ## 📸 Screenshot
-(Add a screenshot here later if you want)
+Here’s a preview of the app:
+
+![BloodConnect Screenshot](screenshot.png)  
+
+*(Replace `screenshot.png` with your actual uploaded image file name if different)*
+
+---
 
 ## 🔗 Live Demo
-👉 [Click here to view BloodConnect](https://your-username.github.io/BloodConnect/)
+👉 [Click here to view BloodConnect](https://fathima2069.github.io/BloodConnect/)
+
+---
 
 ## 👩‍💻 Author
-Created by **Fathima** 💖
-
-## 📸 Screenshot
-
-![BloodConnect Screenshot](screenshot.png)
-
+Created by **Fathima** 💖  
