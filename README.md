@@ -30,7 +30,8 @@ Here’s a preview of the app:
 ---
 
 ## 🔗 Live Demo
-👉 [Click here to view BloodConnect](https://fathima2069.github.io/BloodConnect/)
+[![Live Demo](https://img.shields.io/badge/View%20Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=github)](https://fathima2069.github.io/BloodConnect/)
+
 
 ---
 
