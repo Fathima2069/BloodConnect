@@ -47,5 +47,30 @@ Created by **Fathima** 💖
 | 🌐 Website       | [BloodConnect Live](https://fathima2069.github.io/BloodConnect/) |
 | 📂 Repository    | [GitHub Repo](https://github.com/fathima2069/BloodConnect) |
 | 👩‍💻 Author       | Fathima ❤️                             |
-| 📅 Last Updated  | October 2025                            |
+| 📅 Last Updated  | October 2025
+
+## 🛠️ How to Use
+
+1. **Visit the Website**  
+   👉 [BloodConnect Live](https://fathima2069.github.io/BloodConnect/)
+
+2. **Search Donors**  
+   - Use the search box to find donors by name.  
+   - Example: type `Ali` → only Ali appears.  
+
+3. **Filter Donors**  
+   - Use the dropdown menu to filter by blood group.  
+   - Example: choose `A+` → only A+ donors are shown.  
+
+4. **Register as a Donor**  
+   - Enter your **name** and **blood group** in the form.  
+   - Click **Register** → your name will be added to the donor list.  
+
+5. **Delete a Donor**  
+   - Click the 🗑️ button next to any donor.  
+   - Confirm → the donor is removed from the list.  
+
+6. **Check Donor Count**  
+   - The **Total Donors** counter updates automatically.  
+|
 
