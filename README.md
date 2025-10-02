@@ -37,3 +37,15 @@ Here’s a preview of the app:
 
 ## 👩‍💻 Author
 Created by **Fathima** 💖  
+
+## 📊 Project Details  
+
+| Key Feature      | Info                                    |
+|------------------|-----------------------------------------|
+| 💻 Tech Stack    | HTML, CSS, JavaScript                   |
+| 🚀 Status        | Live ✅                                 |
+| 🌐 Website       | [BloodConnect Live](https://fathima2069.github.io/BloodConnect/) |
+| 📂 Repository    | [GitHub Repo](https://github.com/fathima2069/BloodConnect) |
+| 👩‍💻 Author       | Fathima ❤️                             |
+| 📅 Last Updated  | October 2025                            |
+
