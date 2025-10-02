@@ -73,4 +73,15 @@ Created by **Fathima** 💖
 6. **Check Donor Count**  
    - The **Total Donors** counter updates automatically.  
 |
+## 🔮 Future Improvements (Roadmap)
+
+Here are some features planned for future versions of BloodConnect:
+
+- 🔐 **User Login & Authentication** – Allow donors to create accounts and log in securely.  
+- 🗄️ **Database Integration** – Store donor details in a real database instead of just the page.  
+- 📍 **Location-based Search** – Show donors near the user’s city or area.  
+- 📲 **Mobile Friendly App** – Make the design fully responsive and mobile optimized.  
+- 📢 **Emergency Notifications** – Send alerts when a blood group is urgently needed.  
+- 📊 **Analytics Dashboard** – Track donor registrations, most common blood groups, etc.  
+
 
