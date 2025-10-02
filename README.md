@@ -82,6 +82,19 @@ Here are some features planned for future versions of BloodConnect:
 - 📍 **Location-based Search** – Show donors near the user’s city or area.  
 - 📲 **Mobile Friendly App** – Make the design fully responsive and mobile optimized.  
 - 📢 **Emergency Notifications** – Send alerts when a blood group is urgently needed.  
-- 📊 **Analytics Dashboard** – Track donor registrations, most common blood groups, etc.  
+- 📊 **Analytics Dashboard** – Track donor registrations, most common blood groups, etc.
+
+- ## 🤝 Contributing
+
+Contributions are welcome! 🎉  
+If you’d like to improve **BloodConnect**, here’s how you can help:
+
+1. **Fork the repository**  
+   - Click the "Fork" button on the top-right of this page.
+
+2. **Clone your fork**  
+   ```bash
+   git clone https://github.com/your-username/BloodConnect.git
+
 
 
