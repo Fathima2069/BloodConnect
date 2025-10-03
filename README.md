@@ -109,7 +109,23 @@ Special thanks to:
 - 📚 **Online tutorials & resources** – for guidance on HTML, CSS, and JavaScript  
 - 🎨 **Font Awesome** – for providing the trash can icon  
 - 🖥️ **GitHub Pages** – for hosting the live site  
-- 👩‍🏫 **Teachers & Mentors** – for project guidance and feedback  
+- 👩‍🏫 **Teachers & Mentors** – for project guidance and feedback
+
+- ## 📌 Project Status  
+
+✅ BloodConnect is **complete and live**.  
+Future updates may include database integration and location-based search.  
+
+---
+
+## 📬 Contact  
+
+If you have any questions, suggestions, or feedback:  
+
+- 📧 Email: [bloodconnect@example.com](mailto:bloodconnect@example.com)  
+- 🌐 GitHub: [fathima2069](https://github.com/fathima2069)  
+- 📱 Phone (Demo): +91 98765 43210  
+
 
 
 
