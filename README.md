@@ -96,3 +96,10 @@ Contributions are welcome! 🎉
 2. **Clone your fork**  
    ```bash
    git clone https://github.com/your-username/BloodConnect.git
+
+   ## 📜 License
+
+This project is licensed under the **MIT License** – you are free to use, modify, and distribute this project with proper credit.  
+
+See the [LICENSE](LICENSE) file for more details.
+
