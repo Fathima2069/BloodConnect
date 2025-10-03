@@ -101,6 +101,17 @@ If you’d like to improve **BloodConnect**, here’s how you can help:
 This project is licensed under the **MIT License** – you are free to use, copy, and modify it with attribution.  
 See the [LICENSE](LICENSE) file for details.
 
+## 🙏 Credits / Acknowledgements  
+
+Special thanks to:  
+
+- 💻 **Myself (Fathima)** – for designing and developing the project  
+- 📚 **Online tutorials & resources** – for guidance on HTML, CSS, and JavaScript  
+- 🎨 **Font Awesome** – for providing the trash can icon  
+- 🖥️ **GitHub Pages** – for hosting the live site  
+- 👩‍🏫 **Teachers & Mentors** – for project guidance and feedback  
+
+
 
 
 
