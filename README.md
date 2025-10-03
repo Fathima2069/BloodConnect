@@ -96,5 +96,11 @@ If you’d like to improve **BloodConnect**, here’s how you can help:
    ```bash
    git clone https://github.com/your-username/BloodConnect.git
 
+   ## 📜 License
+
+This project is licensed under the **MIT License** – you are free to use, copy, and modify it with attribution.  
+See the [LICENSE](LICENSE) file for details.
+
+
 
 
